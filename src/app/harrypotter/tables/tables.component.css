@@ -1,0 +1,8 @@
+.content {
+  margin-left: 200px;
+  width: auto;
+  position: relative;
+  overflow: auto;
+  z-index: 1;
+  min-width: 500px;
+}

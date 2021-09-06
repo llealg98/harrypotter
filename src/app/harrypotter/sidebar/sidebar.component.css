@@ -1,0 +1,64 @@
+#sidebar {
+  height: 100%;
+  min-height: 100vh;
+  min-width: 180px;
+}
+
+.logoHarryPotter {
+  width: 155px;
+
+}
+
+.staff {
+  background-color: #8c004b;
+  border-color: #f7138c;
+}
+
+.staff:focus{
+  box-shadow: 0 0 0 0.25rem rgb(163 73 164/ 50%);
+}
+
+.students {
+  background-color: #FF4500;
+  border-color: #a52f04;
+}
+
+.students:focus {
+  box-shadow: 0 0 0 0.25rem rgb(255 69 0/ 50%);
+}
+
+.gryffindor {
+  background-color: #d60505;
+  border-color: #b60c07;
+} 
+
+.gryffindor:focus {
+  box-shadow: 0 0 0 0.25rem rgb(255 0 0/ 50%);
+}
+
+.slytherin {
+  background-color: #049b29;
+  border-color: #13ca32;
+}
+
+.slytherin:focus {
+  box-shadow: 0 0 0 0.25rem rgb( 0 100 0/ 50%);
+}
+
+.hufflepuff {
+  background-color: #9b8c04;
+  border-color: #ca9f13;
+}
+
+.hufflepuff:focus {
+  box-shadow: 0 0 0 0.25rem rgb( 128 128 0 / 50%);
+}
+
+.ravenclaw {
+  background-color: #047d9b;
+  border-color: #14aae6;
+}
+
+.ravenclaw:focus {
+  box-shadow: 0 0 0 0.25rem rgb( 	0 128 128 / 50%);
+}
